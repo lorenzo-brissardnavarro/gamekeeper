@@ -26,7 +26,7 @@
         </form>
         <div class="bottom-text">
             <p>Vous avez déjà un compte ?</p>
-            <a href="../index.php?action=register"">Se connecter</a>
+            <a href="../index.php?action=login"">Se connecter</a>
         </div>
     </div>
 </section>
